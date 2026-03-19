@@ -15,7 +15,7 @@ Un joc clasic de tip "Spânzurătoarea" dezvoltat în limbajul C, care utilizeaz
 * **Concepte utilizate:**
     * **Manipularea Matricelor:** Definirea de constante pentru coordonatele geometrice ale desenului în consolă.
     * **I/O de fișiere:** Utilizarea "fopen" și "fgets" pentru citirea dintr-o bază de date de cuvinte.
-    * **Logică Algoritmică:** Gestionarea stării jocului printr-o buclă `while` și verificări condiționate pentru victoria sau înfrângerea jucătorului.
+    * **Logică Algoritmică:** Gestionarea stării jocului printr-o buclă "while" și verificări condiționate pentru victoria sau înfrângerea jucătorului.
 
 ## Geometria Desenului
 Proiectul folosește constante predefinite pentru a asigura proporțiile personajului:
